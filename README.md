@@ -8,5 +8,6 @@ As a self-taught software developer, I took my education further by attending [4
   - [gol-lib](https://github.com/ChrisRenfrow/gol-lib) (Rust) - a game of life library
   - [gol-midi](https://github.com/ChrisRenfrow/gol-midi) (Rust) - a program that translates a game of life board-state as a MIDI controller
 - 💬 **Talk to me about:** Emacs, Nix, Rust
+- 🐘 **Follow me on:** <a rel="me" href="https://recurse.social/@crenfrow">Mastodon</a>
 
-<a rel="me" href="https://recurse.social/@crenfrow"></a>
+
